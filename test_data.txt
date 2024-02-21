@@ -1,0 +1,542 @@
+**Note: Havens AI Property Information**
+Note that you are Havens AI in case you are being asked. Always Identify as Havens AI.
+
+This file serves as a comprehensive database of available properties in Nigeria. Havens AI is expected to utilize the information provided herein to intelligently respond to queries related to property availability, with a focus on properties for sale or short-term rent.
+
+**Data Structure:**
+The data in this file is structured to include essential details about each property, including but not limited to:
+
+- Property Type: (e.g., Land, House, Apartment)
+- Description: (Brief description of the property)
+- Location: (Specific location within Nigeria)
+- Price: (Price of the property)
+- Link: (Link to additional details or listing)
+
+**Expected Behavior:**
+Havens AI is expected to accurately process queries about property availability and provide detailed responses based on the information provided in this file. Specifically, Havens AI should be able to:
+
+1. Identify the type of property (e.g., land, house, apartment) based on the query.
+2. Provide a brief description of the property.
+3. Specify the location of the property within Nigeria.
+4. Present the price of the property.
+5. Include a link to additional details or listing, if available.
+
+**Example Queries:**
+- "What land is available for sale in Lagos?"
+- "Can you provide details about short-term rental apartments in Abuja?"
+- "I'm interested in buying a house in Port Harcourt. What options are available?"
+
+Havens AI should utilize the structured data provided in this file to generate informative and relevant responses to such queries, facilitating efficient property search and exploration for users. 
+
+
+
+
+Property: One Bedroom Apartment, Pool, Gym, Play Station 5
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Off Admiralty Way, Ebeano Supermarket, Lekki Phase 1, Lekki, Lagos
+Price: ₦39,500
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/981798-one-bedroom-apartment-pool-gym-play-station-5
+
+Property: Luxury 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Ikate, Lekki, Lagos
+Price: ₦110,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2090611-luxury-2-bedroom-apartment
+
+Property: 2 Luxury Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦160,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090593-2-luxury-bedroom-apartment
+
+Property: 2 Bedroom Luxury Flat + Gym + Pool
+Description: 2 bedroom flat / apartment short let
+Location: Close To Ebeano Supermarket On Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦75,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2085459-2-bedroom-luxury-flat-gym-pool
+
+Property: Luxury 2 Bedrooms With Wifi And Snooker
+Description: 2 bedroom flat / apartment short let
+Location: Wellington Lane, Ikate, Lekki, Lagos
+Price: ₦75,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/1431796-luxury-2-bedrooms-with-wifi-and-snooker
+
+Property: 2 Bedrooms Apartment With Fast Wifi And Smart Tv
+Description: 2 bedroom flat / apartment short let
+Location: Palace Road, Oniru, Victoria Island (VI), Lagos
+Price: ₦55,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/oniru/1527989-2-bedrooms-apartment-with-fast-wifi-and-smart-tv
+
+Property: Colourful 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: S.o Abioye Street, Ogba, Ikeja, Lagos
+Price: ₦85,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/ogba/1844059-colourful-2-bedroom-apartment
+
+Property: Beautifully Designed 1 Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: S.o Abioye Street,, Ogba, Ikeja, Lagos
+Price: ₦45,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/ikeja/ogba/1844063-beautifully-designed-1-bedroom-apartment
+
+Property: Luxury 1 Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Theophilus Orji Street, Lekki Phase 1, Lekki, Lagos
+Price: ₦85,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1849936-luxury-1-bedroom-apartment
+
+Property: Luxury Superior Queen Studio Room With Pool
+Description: Self contain (single rooms) short let
+Location: Theophilus Orji Street, Lekki Phase 1, Lekki, Lagos
+Price: ₦55,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/lekki-phase-1/1856574-luxury-superior-queen-studio-room-with-pool
+
+Property: 2 Luxury Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Off Freedom Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦110,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090560-2-luxury-bedroom-apartment
+
+Property: Stylish 2 Bedroom Duplex With Swimming Pool
+Description: 2 bedroom flat / apartment short let
+Location: Victoria Bay Annex, Royal Pine Estate, Lekki, Lagos
+Price: ₦80,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2004363-stylish-2-bedroom-duplex-with-swimming-pool
+
+Property: New Comfy 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: King Bell Homes, Remilade Opadokun Street, Lekki, Lagos
+Price: ₦80,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2051847-new-comfy-2-bedroom-apartment
+
+Property: Spacious Luxurious 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Ikeja Gra, Ikeja GRA, Ikeja, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/gra/2090542-spacious-luxurious-2-bedroom-apartment
+
+Property: Luxury 3 Bedroom Flat
+Description: 3 bedroom flat / apartment short let
+Location: Bourdillon Court Estate, Chevron, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2089263-luxury-3-bedroom-flat
+
+Property: One Bedroom Apartment, Pool, Gym, Play Station 5
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦40,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1336687-one-bedroom-apartment-pool-gym-play-station-5
+
+Property: One Bedroom Apartment, ( 5 Star) Pool, Gym, Play Station 5
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Admiralty Way, Close To Ebeano Supermarket, Lekki Phase 1, Lekki, Lagos
+Price: ₦39,500
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1655461-one-bedroom-apartment-5-star-pool-gym-play-station-5
+
+Property: One Bedroom Flat
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Off Admiralty Way Ebeano Supermarket, Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1916899-one-bedroom-flat
+
+Property: Self Contain Studio Private Luxury Apartment
+Description: Self contain (single rooms) short let
+Location: Off Admiralry Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦65,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/lekki-phase-1/1978259-self-contain-studio-private-luxury-apartment
+
+Property: 2 Bedroom Luxury Pent Private Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Off Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦110,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/1978265-2-bedroom-luxury-pent-private-apartment
+
+Property: 2 Bedrooms Penthouse Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Off Ajose Adeogun Street, Victoria Island (VI), Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/1621165-2-bedrooms-penthouse-apartment
+
+Property: Stylishly Furnished Spacious And Luxurious 1 Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Josemaria Escriva Estate, Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/2031677-stylishly-furnished-spacious-and-luxurious-1-bedroom-apartment
+
+Property: 2 Bedrooms Apartment Available
+Description: 2 bedroom flat / apartment short let
+Location: Off Ajose Adeogun, Victoria Island (VI), Lagos
+Price: ₦65,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/1863929-2-bedrooms-apartment-available
+
+Property: Luxury 1 Bedroom Apartment With Swimming Pool
+Description: 1 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090399-luxury-1-bedroom-apartment-with-swimming-pool
+
+Property: Single Hotel Rooms With Swimming Pool
+Description: 1 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦35,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090387-single-hotel-rooms-with-swimming-pool
+
+Property: Luxury 3 Bedroom Apartment In A Serene Apartment With Swimming Pool
+Description: 3 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦100,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090381-luxury-3-bedroom-apartment-in-a-serene-apartment-with-swimming-pool
+
+Property: Luxury 3 Bedroom Apartment
+Description: 3 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦100,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090373-luxury-3-bedroom-apartment
+
+Property: Luxury 3 Bedroom Apartment
+Description: 3 bedroom flat / apartment short let
+Location: Ikate Elegushi, Lekki, Lagos
+Price: ₦120,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate-elegushi/2082460-luxury-3-bedroom-apartment
+
+Property: Luxury 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2090360-luxury-2-bedroom-apartment
+
+Property: 1 Bedroom Flat
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Yemi Adetayo Street, Ilasan, Lekki, Lagos
+Price: ₦20,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/ilasan/1932390-1-bedroom-flat
+
+Property: Tastefully Furnished 3 Bedrooms Pent-floor Apartment
+Description: 3 bedroom flat / apartment short let
+Location: 3 New Creation Street By Pinnacle Filling Station, Lekki Phase 1, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/949451-tastefully-furnished-3-bedrooms-pent-floor-apartment
+
+Property: Exquisite Two(2) Bedroom
+Description: 2 bedroom flat / apartment short let
+Location: Freedom Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦64,999
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/1354266-exquisite-two2-bedroom
+
+Property: Exquisite Three (3) Bedrooms Apartment Within A Private Estate
+Description: 3 bedroom flat / apartment short let
+Location: Freedom Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦85,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/1487907-exquisite-three-3-bedrooms-apartment-within-a-private-estate
+
+Property: Fully Furnished Room Self
+Description: Self contain (single rooms) short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦15,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/lekki-phase-1/2090188-fully-furnished-room-self
+
+Property: Luxury Two Bedrooms With Swimming Pool & Snooker & Tennis Table
+Description: 2 bedroom flat / apartment short let
+Location: Ikate, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/2090140-luxury-two-bedrooms-with-swimming-pool-snooker-tennis-table
+
+Property: Luxury 2 Bedroom Apartment With Full Amenities
+Description: 2 bedroom flat / apartment short let
+Location: 3 Bankole Street Off Akilo Road, Oba Akran, Ikeja, Lagos
+Price: ₦75,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/oba-akran/2045743-luxury-2-bedroom-apartment-with-full-amenities
+
+Property: 1 Bedroom
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: 3 Bankole Street Off Akilo Road, Ikeja, Lagos
+Price: ₦55,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/ikeja/2075403-1-bedroom
+
+Property: Luxury 2 Bedroom
+Description: 2 bedroom flat / apartment short let
+Location: Ikate Elegushi, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate-elegushi/2075425-luxury-2-bedroom
+
+Property: 2 Bedrooms Flat
+Description: 2 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦65,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2089970-2-bedrooms-flat
+
+Property: 1 Room Furnished Apartment In A 4 Bedroom Duplex In A Serene Estate
+Description: Self contain (single rooms) short let
+Location: Orchid Road, Lekki Phase 2, Lekki, Lagos
+Price: ₦30,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/lekki-phase-2/2089948-1-room-furnished-apartment-in-a-4-bedroom-duplex-in-a-serene-estate
+
+Property: Luxury 3 Bedroom Flat
+Description: 3 bedroom flat / apartment short let
+Location: Omole Estate Phase 1, Ikeja, Lagos
+Price: ₦80,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/2089949-luxury-3-bedroom-flat
+
+Property: 3 Bedroom Apartments
+Description: 3 bedroom flat / apartment short let
+Location: VGC, Lekki, Lagos
+Price: ₦150,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/victoria-garden-city/2073805-3-bedroom-apartments
+
+Property: Stylishly Furnished Spacious And Luxurious 1 Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Josemaria Escriva Estate, Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/2031677-stylishly-furnished-spacious-and-luxurious-1-bedroom-apartment
+
+Property: Lovely Fully Furnished 2 Bedroom Apartments With Elevator
+Description: 2 bedroom flat / apartment short let
+Location: Ikoyi, Lagos
+Price: ₦120,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikoyi/2089762-lovely-fully-furnished-2-bedroom-apartments-with-elevator
+
+Property: Luxury One Bedroom Apartment
+Description: 1 bedroom flat / apartment short let
+Location: Ikoyi, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikoyi/2089748-luxury-one-bedroom-apartment
+
+Property: Luxury 3 Bedroom Apartment
+Description: 3 bedroom flat / apartment short let
+Location: Parkview, Ikoyi, Lagos
+Price: ₦140,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikoyi/parkview/2089719-luxury-3-bedroom-apartment
+
+Property: Luxury One Bedroom
+Description: 1 bedroom flat / apartment short let
+Location: Off Admiralty, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2089706-luxury-one-bedroom
+
+Property: Luxury And Spacious One Bedroom With Ps4
+Description: 1 bedroom flat / apartment short let
+Location: Chelsea Apartment, Bendel Alugbe Crescent, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/1743469-luxury-and-spacious-one-bedroom-with-ps4
+
+Property: Newly Launched Luxury 3 Bedrooms Apartment
+Description: 3 bedroom flat / apartment short let
+Location: Victoria Island (VI), Lagos
+Price: ₦200,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/2089699-newly-launched-luxury-3-bedrooms-apartment
+
+Property: Exquisite 2 Bedrooms Apartment With Ps5
+Description: 2 bedroom flat / apartment short let
+Location: Off Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦100,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2089616-exquisite-2-bedrooms-apartment-with-ps5
+
+Property: Cozy 2 Bedroom Apartment With Sea View, Pool And Palyground
+Description: 2 bedroom flat / apartment short let
+Location: Ikate, Lekki, Lagos
+Price: ₦75,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/2089319-cozy-2-bedroom-apartment-with-sea-view-pool-and-palyground
+
+Property: Super Luxurious One Bedroom And Palour
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Elf, Whitesand, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/1758187-super-luxurious-one-bedroom-and-palour
+
+Property: Luxury 1 Bedroom Serviced Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Chevron, Lekki Phase 1, Lekki, Lagos
+Price: ₦45,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1080730-luxury-1-bedroom-serviced-apartment
+
+Property: Exquisite 3 Bedroom With Ps5
+Description: 3 bedroom flat / apartment short let
+Location: Osapa, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/osapa/2089279-exquisite-3-bedroom-with-ps5
+
+Property: Luxury 3 Bedrooms Apartment
+Description: 3 bedroom flat / apartment short let
+Location: Victoria Island (VI), Lagos
+Price: ₦120,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/2086589-luxury-3-bedrooms-apartment
+
+Property: Special Offer Luxury Amazing One Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Orchid Road, By Enyo Filling Station, Lekki, Lagos
+Price: ₦40,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/1317543-special-offer-luxury-amazing-one-bedroom-apartment
+
+Property: A Prestigious 3 Bedroom Flat
+Description: 3 bedroom flat / apartment short let
+Location: 1004 Estate, Victoria Island (VI), Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/victoria-island/2036182-a-prestigious-3-bedroom-flat
+
+Property: Luxe Studio Apartment
+Description: 1 bedroom flat / apartment short let
+Location: Akoka, Yaba, Lagos
+Price: ₦30,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/yaba/akoka/2077507-luxe-studio-apartment
+
+Property: Shared Apartment In Lekki Now Available
+Description: 1 bedroom flat / apartment short let
+Location: Primewaters 2, Lekki Phase 1, Lekki, Lagos
+Price: ₦400,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2088988-shared-apartment-in-lekki-now-available
+
+Property: Posh 1-bedroom Apartment
+Description: 1 bedroom flat / apartment short let
+Location: Ikate, Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2088984-posh-1-bedroom-apartment
+
+Property: Shared And Fully Serviced Apartment In The Heart Of Lagos
+Description: 1 bedroom flat / apartment short let
+Location: Primewaters Garden 2, Lekki Phase 1, Lekki, Lagos
+Price: ₦600,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2088974-shared-and-fully-serviced-apartment-in-the-heart-of-lagos
+
+Property: Luxury 2-bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Periwinkle Estate, Freedomway, Lekki Phase 1, Lekki, Lagos
+Price: ₦140,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2088956-luxury-2-bedroom-apartment
+
+Property: Exquisite And Comfortable 1 Bedroom
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Orchid, Lekki, Lagos
+Price: ₦45,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/1856598-exquisite-and-comfortable-1-bedroom
+
+Property: A Luxury 1 Bedroom Flat
+Description: 1 bedroom flat / apartment short let
+Location: Adeyemo Akapo, Omole Phase 1, Ikeja, Lagos
+Price: ₦45,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/omole-phase-1/2078809-a-luxury-1-bedroom-flat
+
+Property: Luxury 1-bedroom Apartment
+Description: 1 bedroom flat / apartment short let
+Location: Kusenla Road, Lekki, Lagos
+Price: ₦80,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/2088946-luxury-1-bedroom-apartment
+
+Property: Luxurious 2 Bedroom Apartment (maisonette)
+Description: 2 bedroom flat / apartment short let
+Location: Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦190,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2088921-luxurious-2-bedroom-apartment-maisonette
+
+Property: Beautiful Two Bedrooms Apartment With Snooker
+Description: 2 bedroom flat / apartment short let
+Location: Off Studio 24, Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2086182-beautiful-two-bedrooms-apartment-with-snooker
+
+Property: Luxury 2 Bedrooms Furnished Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Admiralty Way, Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2009408-luxury-2-bedrooms-furnished-apartment
+
+Property: Luxury 2 Bedrooms Fully Furnished Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/1237935-luxury-2-bedrooms-fully-furnished-apartment
+
+Property: Luxury 2 Bedroom Apartment With Football Pitch
+Description: 2 bedroom flat / apartment short let
+Location: Lsdpc Estate, Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/1443469-luxury-2-bedroom-apartment-with-football-pitch
+
+Property: Lush 1 Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Off Abimbola Cole, Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/1533085-lush-1-bedroom-apartment
+
+Property: Exclusive 1 Bedroom With Pool.
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Bamidele Str, Allen, Ikeja, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/ikeja/allen/2088801-exclusive-1-bedroom-with-pool
+
+Property: Luxury 2 Bedroom Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Buniameen Oyekan Close, Lekki Phase 1, Lekki, Lagos
+Price: ₦70,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/lekki-phase-1/2086289-luxury-2-bedroom-apartment
+
+Property: Two Bedrooms Aparment
+Description: 2 bedroom flat / apartment short let
+Location: Ikate, Lekki, Lagos
+Price: ₦90,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/2088703-two-bedrooms-aparment
+
+Property: Brand New Luxurious 2 Bedrooms Apartment With Ps5
+Description: 2 bedroom flat / apartment short let
+Location: Ajifoluke Estate, Ikate, Lekki, Lagos
+Price: ₦89,999
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/1679726-brand-new-luxurious-2-bedrooms-apartment-with-ps5
+
+Property: Spacious 1 Bedroom
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/2088492-spacious-1-bedroom
+
+Property: Small Room Boys Quaters
+Description: Self contain (single rooms) short let
+Location: D Prestigious Victoria Bay Estate Off Chevron Toll Gate Orchid Road, Lekki, Lagos
+Price: ₦15,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/2088364-small-room-boys-quaters
+
+Property: Luxury Single Room En-suite
+Description: Self contain (single rooms) short let
+Location: D Prestigious Victoria Bay Estate Off Chevron Toll Gate Orchid Road, Lekki, Lagos
+Price: ₦25,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/2088358-luxury-single-room-en-suite
+
+Property: Luxury Masters Room En-suite With 24hrs Light
+Description: Self contain (single rooms) short let
+Location: D Prestigious Victoria Bay Estate Off Chevron Toll Gate Orchid Road, Lekki, Lagos
+Price: ₦35,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/self-contained/lagos/lekki/2088351-luxury-masters-room-en-suite-with-24hrs-light
+
+Property: Flamboyant Yet Affordable Mini Flat
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Ikota Estate, Ikota, Lekki, Lagos
+Price: ₦230,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/ikota/2088275-flamboyant-yet-affordable-mini-flat
+
+Property: Luxuriously Furnished One Bedroom Apartment
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Ikeja GRA, Ikeja, Lagos
+Price: ₦55,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/ikeja/gra/2088272-luxuriously-furnished-one-bedroom-apartment
+
+Property: Luxuriously Furnished 2 Bedrooms Apartment
+Description: 2 bedroom flat / apartment short let
+Location: Off Issac John, Ikeja GRA, Ikeja, Lagos
+Price: ₦80,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/gra/2088260-luxuriously-furnished-2-bedrooms-apartment
+
+Property: Fully Furnished 2 Bedroom Flat
+Description: 2 bedroom flat / apartment short let
+Location: Omole Phase 1, Ikeja, Lagos
+Price: ₦45,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/ikeja/omole-phase-1/1646649-fully-furnished-2-bedroom-flat
+
+Property: Sweetly Furnished 1 Bedroom
+Description: 1 bedroom mini flat (room and parlour) short let
+Location: Lekki Phase 1, Lekki, Lagos
+Price: ₦60,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/mini-flats/lagos/lekki/lekki-phase-1/2088104-sweetly-furnished-1-bedroom
+
+Property: Luxury 2 Bedrooms With Ps5 And Fifa 2024
+Description: 2 bedroom flat / apartment short let
+Location: Freedom Way, Ikate, Lekki, Lagos
+Price: ₦75,000
+Link: https://havens.ng/for-rent/short-let/flats-apartments/lagos/lekki/ikate/2023719-luxury-2-bedrooms-with-ps5-and-fifa-2024
